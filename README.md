@@ -1,3 +1,5 @@
+![Screenshot](banner-principal.png)
+
 # Meu primeiro CV 
 <p align="center">
   <img src="./IMG/banner-principal" width="350" title="hover text">
