@@ -1,4 +1,4 @@
-![Screenshot](banner-principal.png)
+![Banner](banner-principal.png)
 
 <p align="center">
   Meu primeiro CV 
